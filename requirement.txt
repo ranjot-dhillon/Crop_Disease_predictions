@@ -23,7 +23,10 @@ platformdirs==4.3.6        # Compatible
 pooch==1.8.2               # Compatible
 pure_eval==0.2.3           # Compatible
 pyasn1-modules==0.2.8      # Compatible
-pydeck==0.9.1              # Compatible
+pydeck==0.9.1
+
+gunicorn
+# Compatible
 pytz==2024.2               # Compatible
 referencing==0.35.1        # Compatible
 rich==13.9.4               # Compatible
