@@ -18,7 +18,7 @@ numpy==1.26.0              # Latest version compatible with Python 3.11
 optree==0.13.1             # Compatible
 pandas==2.1.4              # Updated for Python 3.11
 parso==0.8.4               # Compatible
-pillow==11.0.0             # Compatible
+pillow==9.5.0
 platformdirs==4.3.6        # Compatible
 pooch==1.8.2               # Compatible
 pure_eval==0.2.3           # Compatible
