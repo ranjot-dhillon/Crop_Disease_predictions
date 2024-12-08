@@ -1,43 +1,85 @@
-altair==5.0.1              # Compatible with Python 3.11
-asttokens==2.4.1           # Latest version supports Python 3.11
-astunparse==1.6.3          # Still compatible
-audioread==3.0.1           # Compatible
-comm==0.2.2                # Compatible
-contourpy==1.3.1           # Compatible with Python 3.11
-cycler==0.12.1             # Compatible
-debugpy==1.8.9             # Compatible
-decorator==5.1.1           # Compatible
-entrypoints==0.4           # Compatible
-exceptiongroup==1.2.2      # Compatible
-executing==2.1.0           # Compatible
-gitdb==4.0.11              # Compatible
-GitPython==3.1.43          # Compatible
-jedi==0.19.2               # Compatible
-Jinja2==3.1.4              # Compatible
-numpy==1.26.0              # Latest version compatible with Python 3.11
-optree==0.13.1             # Compatible
-pandas==2.1.4              # Updated for Python 3.11
-parso==0.8.4               # Compatible
-pillow==9.5.0
-platformdirs==4.3.6        # Compatible
-pooch==1.8.2               # Compatible
-pure_eval==0.2.3           # Compatible
-pyasn1-modules==0.2.8      # Compatible
-pydeck==0.9.1
-
-gunicorn
-# Compatible
-pytz==2024.2               # Compatible
-referencing==0.35.1        # Compatible
-rich==13.9.4               # Compatible
-rpds-py==0.21.0            # Compatible
-scikit-learn==1.3.1        # Updated for Python 3.11
-seaborn==0.13.0            # Compatible
-soundfile==0.12.1          # Compatible
-soxr==0.5.0.post1          # Compatible
-stack-data==0.6.3          # Compatible
-streamlit==1.25.0          # Updated for Python 3.11
-tenacity==8.5.0            # Compatible
-tensorflow==2.14.1         # Compatible with Python 3.11
-tensorflow-io-gcs-filesystem==0.33.0  # Updated for TensorFlow 2.14.1
-
+altair
+asttokens
+astunparse
+audioread
+comm
+contourpy
+cycler
+debugpy
+decorator
+entrypoints
+exceptiongroup
+executing
+fonttools
+gitdb
+GitPython
+idna
+importlib_metadata
+ipykernel
+ipython
+jedi
+Jinja2
+joblib
+jsonschema
+jsonschema-specifications
+jupyter_client
+jupyter_core
+kiwisolver
+lazy_loader
+libclang
+librosa
+llvmlite
+markdown-it-py
+matplotlib
+matplotlib-inline
+mdurl
+msgpack
+namex
+nest-asyncio
+numba
+numpy
+optree
+pandas
+parso
+pillow
+platformdirs
+pooch
+prompt_toolkit
+protobuf
+psutil
+pure_eval
+pyarrow
+pyasn1-modules
+pydeck
+Pygments
+Pympler
+pyparsing
+python-dateutil
+pytz
+pywin32
+pyzmq
+referencing
+rich
+rpds-py
+scikit-learn
+seaborn
+smmap
+soundfile
+soxr
+stack-data
+streamlit
+tenacity
+tensorflow
+tensorflow-io-gcs-filesystem
+tensorflow_intel
+threadpoolctl
+toml
+toolz
+tornado
+traitlets
+tzdata
+tzlocal
+validators
+watchdog
+wcwidth
+zipp
