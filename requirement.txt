@@ -37,4 +37,4 @@ streamlit==1.25.0          # Updated for Python 3.11
 tenacity==8.5.0            # Compatible
 tensorflow==2.14.1         # Compatible with Python 3.11
 tensorflow-io-gcs-filesystem==0.33.0  # Updated for TensorFlow 2.14.1
-tensorflow_intel==2.18.0   # Compatible
+
